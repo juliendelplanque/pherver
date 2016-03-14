@@ -1,4 +1,4 @@
 Metacello new
-    baseline: Pherver;
-    repository: github://juliendelplanque/pherver/repository;
+    baseline: 'Pherver';
+    repository: 'github://juliendelplanque/pherver/repository';
     load.
