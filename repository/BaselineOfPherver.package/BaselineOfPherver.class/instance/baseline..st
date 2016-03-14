@@ -10,11 +10,11 @@ baseline: spec
 						requires: 'Mustache-Core' ].
 			spec project: 'Teapot' with: [ 
 				spec
-					class: #ConfigurationOfTeapot;
+					className: #ConfigurationOfTeapot;
 					version: #stable;
 					repository: 'http://smalltalkhub.com/mc/zeroflag/Teapot/main' ].
 			spec project: 'Mustache-Core' with: [ 
 				spec
-					class: #ConfigurationOfMustache;
+					className: #ConfigurationOfMustache;
 					version: #stable;
 					repository: 'http://smalltalkhub.com/mc/NorbertHartl/Mustache/main' ] ].
