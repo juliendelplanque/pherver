@@ -1,0 +1,15 @@
+{
+	"category" : "Pherver",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Style" ],
+	"commentStamp" : "JulienDelplanque 3/12/2016 18:51",
+	"instvars" : [
+		"directoryToPherve",
+		"teapot" ],
+	"name" : "Pherver",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

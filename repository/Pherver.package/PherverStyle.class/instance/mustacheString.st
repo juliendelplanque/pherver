@@ -1,0 +1,3 @@
+accessing
+mustacheString
+	^ self subclassResponsibility

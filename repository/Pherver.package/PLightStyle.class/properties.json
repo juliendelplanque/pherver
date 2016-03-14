@@ -1,0 +1,14 @@
+{
+	"category" : "Pherver",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 3/14/2016 09:15",
+	"instvars" : [
+		 ],
+	"name" : "PLightStyle",
+	"pools" : [
+		 ],
+	"super" : "PherverStyle",
+	"type" : "normal" }

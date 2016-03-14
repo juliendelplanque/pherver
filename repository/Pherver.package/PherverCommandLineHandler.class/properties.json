@@ -1,0 +1,15 @@
+{
+	"category" : "Pherver",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 3/14/2016 09:31",
+	"instvars" : [
+		"port",
+		"style" ],
+	"name" : "PherverCommandLineHandler",
+	"pools" : [
+		 ],
+	"super" : "CommandLineHandler",
+	"type" : "normal" }

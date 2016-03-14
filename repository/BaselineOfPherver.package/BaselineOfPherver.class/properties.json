@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfPherver",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfPherver",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

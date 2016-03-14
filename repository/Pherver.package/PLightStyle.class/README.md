@@ -1,0 +1,1 @@
+A light style using no css and no js.

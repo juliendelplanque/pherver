@@ -1,0 +1,3 @@
+*Pherver
+phervePrint
+	^ '/' , (self printWithDelimiter: $/)

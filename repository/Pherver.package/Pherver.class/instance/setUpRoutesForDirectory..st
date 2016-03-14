@@ -1,0 +1,4 @@
+routes-setup
+setUpRoutesForDirectory: aDirectoryReference
+	self setUpRoutesForDirectoriesIn: aDirectoryReference.
+	self setUpRoutesForFilesIn: aDirectoryReference
